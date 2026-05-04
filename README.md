@@ -1,11 +1,7 @@
-
-
-https://github.com/user-attachments/assets/56a7d0c9-4e7b-4534-9e1c-f913c3503b42
-
 # Dashboard de Vendas
 
 Mini dashboard feito com JavaScript puro.
-Projeto com objeto de fixar mais as propriedades de JavaScript
+Projeto com objeto de aprender e fixar mais as propriedades de JavaScript.
 
 ## Funcionalidades
 - Filtro por destaque
@@ -17,3 +13,5 @@ Projeto com objeto de fixar mais as propriedades de JavaScript
 - JavaScript
 - HTML
 - CSS
+
+https://github.com/user-attachments/assets/56a7d0c9-4e7b-4534-9e1c-f913c3503b42
